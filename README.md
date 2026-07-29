@@ -18,5 +18,11 @@
 
 ## Requirements:
 - Python should be installed on your device with a version of ***3.13** or higher*.
-- 
+- Preferred to be run in a text editor (e.g. Visual Studio Code) to ensure accurate file creation and saving.
+
+---
+
+### Challenges:
+\>> Needed to read documentation and search for a method or a way to get the index of a key in a dictionary; and found the (enumerate) method.
+
  
