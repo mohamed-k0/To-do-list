@@ -11,8 +11,8 @@ def main():
     try:
         with open("TODO.txt","r") as file:
             for line in file:
-                key, value = line.split(" | ",)
-                Tasks.update({key: value.rstrip("\n")})
+                key, value = line.split(" | ",1)
+                Tasks.update({key.strip(): value.rstrip("\n").strip()})
     except Exception:
         pass
 
