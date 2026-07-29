@@ -1,5 +1,5 @@
 
-# TODO LIST PROJECT:
+# TODO LIST PROJECT📋:
 
  This is a simple **To-do list** made using python and runs as Command-line Interface (CLI) program.
  The list tracks your tasks in an organized way, provides control over them and keeps you up-to-date with your progress.
