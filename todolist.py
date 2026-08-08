@@ -98,8 +98,7 @@ def print_list():
         
 
 # Marking tasks DONE
-def mark_done():
-    # TODO 
+def mark_done(): 
     if not check_length():
         return
     number = check_task_no("MARK DONE")    
@@ -116,7 +115,6 @@ def mark_done():
 
 # Removing a task from the Todo list 
 def remove_task():
-    # TODO
     if not check_length():
         return
     number = check_task_no("REMOVE")
